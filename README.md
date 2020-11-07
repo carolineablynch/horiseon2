@@ -3,6 +3,10 @@
 ## Live Site: 
 https://carolineablynch.github.io/horiseon2
 
+## Screenshots from Live Site 
+<img src="Screen Shot 2020-11-07 at 4.06.56 PM.png"/>
+<img src="Screen Shot 2020-11-07 at 4.07.05 PM.png"/>
+
 ## Description:
 
 Horsieon is a marketing firm that utilizes their website to highlight various marketing concepts. It is imperative that companies adhere to accessibility standards and their ask was to take the existing website and make it more accessible to users. To do this, I added alt text with the images, made sure the navigation at the top of the screen links to the relevant sections on the screen, and make sure that the underlying code was cleaner than I found it so that it can be easily read, understood and edited in the future. 
